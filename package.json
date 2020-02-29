@@ -1,0 +1,19 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Kickstarter's coding challenge.",
+  "author": "Kickstarter",
+  "dependencies": {
+    "jest": "16.0.1",
+    "lodash": "4.16.4"
+  },
+  "engines": {
+    "node": "^6.8.0"
+  },
+  "jest": {
+    "testRegex": "test/test_unit.js"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
